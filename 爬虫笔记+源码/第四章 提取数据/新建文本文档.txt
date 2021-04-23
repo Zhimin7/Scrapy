@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS book (id int auto_increment PRIMARY KEY, booknames VARCHAR(255) NOT NULL, authornames VARCHAR(255) NOT NULL, stars VARCHAR(255) NOT NULL, publishertime DATE NOT NULL, publisher VARCHAR(255) NOT NULL, price VARCHAR(255) NOT NULL)
